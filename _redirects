@@ -1,0 +1,5 @@
+/auth/login  /.netlify/functions/login  200
+/auth/callback  /.netlify/functions/callback  200
+/auth/logout  /.netlify/functions/logout  200
+/api/session  /.netlify/functions/session  200
+/api/sendApplication  /.netlify/functions/sendApplication  200
